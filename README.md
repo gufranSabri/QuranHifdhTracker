@@ -1,4 +1,4 @@
-# QuranHifdhTracker
+# Quran Memorization Tracker
 
 Quran Memorization Tracker I built using React Native
 
